@@ -1,0 +1,6 @@
+name: Code.gov API
+markdown: kramdown
+pygments: true
+safe: true
+baseurl: /
+exclude: ['.ruby-version', 'node_modules', 'package.json', 'bower.json']

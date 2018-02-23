@@ -1,5 +1,9 @@
 Auctions API Documentation
+<<<<<<< HEAD
 =========================
+=======
+====================
+>>>>>>> 2f2932b22c3ad33c0c5c22440a81e09c168d1f33
 
 This is the documentation repository for the GSA Auctions API. 
 
@@ -16,5 +20,3 @@ If you are going to work on the JavaScript for this site, you need to do the fol
 * Run `bundle install` to install additional dependencies. 
 
 After changing the JavaScript, run `grunt` to rebuild the minified JS.
-
-
