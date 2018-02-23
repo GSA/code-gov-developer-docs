@@ -1,13 +1,7 @@
 Auctions API Documentation
-<<<<<<< HEAD
-=========================
-=======
-====================
->>>>>>> 2f2932b22c3ad33c0c5c22440a81e09c168d1f33
+This is the documentation repository for the Code.gov API.
 
-This is the documentation repository for the GSA Auctions API. 
-
-Thanks to CFPB team for creating this model and for furthering open source in government.  
+Thanks to CFPB team for creating this model and for furthering open source in government.
 
 ## Using JavaScript and Bower
 
