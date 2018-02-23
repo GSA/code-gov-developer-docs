@@ -6,32 +6,37 @@ nav: basics
 
 ### API basics
 
-The Auctions API is a GET API which has currently one operation. The operation will retrieve GSA Auctions data.  
+The Code.gov API is a GET API. With this API you will be able to explore the software projects that federal agencies have published in compliance with the [Federal Source Code Policy](https://code.gov/#/policy-guide/docs/overview/introduction).
 
-A couple basic notes: The rate limits for the API are currently 5,000 calls/day and 5 calls per 5 seconds. As we go forward and understand the impact of usage of the API, we will adjust the limits accordingly as well as allow for individual users with specific needs to have customized rate limits appropriate to their use.
+There are two basic endpoints:
 
-##### Example URL
+- `/repos`: this endpoint will let you query all federal repositories that have been indexed by us.
+- `/terms`: this endpoint will let you query all terms we have indexed as part of our data harvesting process. These terms will help you in your search efforts.
 
-The below URLs are for initial browsing of API data. This DEMO_KEY will not work after a certain number of attempts. User can  request a personal key from [api.data.gov](https://api.data.gov/signup/). The personal key will have more data access capabilities.    
+#### Additional Notes
 
-* [https://api.data.gov/gsa/auctions?api_key=DEMO_KEY&format=JSON](https://api.data.gov/gsa/auctions?api_key=DEMO_KEY&format=JSON)  
-* [https://api.data.gov/gsa/auctions?api_key=DEMO_KEY&format=XML](https://api.data.gov/gsa/auctions?api_key=DEMO_KEY&format=XML)  
+The rate limits for the API are currently 5,000 calls/day and 5 calls per 5 seconds. As we go forward and understand the impact of usage of the API, we will adjust the limits accordingly as well as allow for individual users with specific needs to have customized rate limits appropriate to their use.
 
-##### Output
+#### Example URL
 
-The output data will be in XML and JSON format. These files are downloadable.
+The below URLs are for initial browsing of API data. This DEMO_KEY will not work after a certain number of attempts. User can  request a personal key from [api.data.gov](https://api.data.gov/signup/). The personal key will have more data access capabilities.
 
-The data in the API output file is live data.  
+* [https://api.code.gov/repos?api_key=DEMO_KEY](https://api.code.gov/repos?api_key=DEMO_KEY)
+* [https://api.code.gov/terms?api_key=DEMO_KEY](https://api.code.gov/terms?api_key=DEMO_KEY)
 
-##### Software Development Kits (SDKs)
+#### Output
 
-For Ruby:  
-* [GitHub](https://github.com/18F/gsa_auctions_gem)  
-* [RubyGems](https://rubygems.org/gems/gsa_auctions)  
+The output data will be in JSON format.
 
-##### Coming soon! 
+#### API Clients
 
-This is the GSA Auctions' first API. More APIs may come in near future.
+We have a couple of API clients on our roadmap.
+
+##### Javascript
+
+- [GSA/code-gov-api-client](https://github.com/GSA/code-gov-api-client)
+  - Currently in alpha
+  - [NPM @code.gov/api-client](https://www.npmjs.com/package/@code.gov/api-client)
+  - [Feedback](https://github.com/GSA/code-gov-api-client/issues/new): Leave us your feedback as a Github Issue!
 
 <body id="basics"></body>
-

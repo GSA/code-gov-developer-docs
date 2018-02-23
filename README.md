@@ -16,5 +16,3 @@ If you are going to work on the JavaScript for this site, you need to do the fol
 * Run `bundle install` to install additional dependencies. 
 
 After changing the JavaScript, run `grunt` to rebuild the minified JS.
-
-

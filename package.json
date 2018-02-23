@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "devDependencies": {
     "bower": "*",
-    "grunt": "~0.4.1",
+    "grunt": "*1.0.2",
     "grunt-contrib-copy": "*",
     "grunt-contrib-less": "*",
     "grunt-contrib-requirejs": "*",

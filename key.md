@@ -9,9 +9,9 @@ nav: basics
 <script type="text/javascript">
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var apiUmbrellaSignupOptions = {
-    registrationSource: 'gsa-auctions',
+    registrationSource: 'code-gov',
     apiKey: '0aYAx2eY37dkfjqsrrZ53SSCkY1yY2kRYGvY27rv',
-    exampleApiUrl: 'https://api.data.gov/gsa/auctions?api_key={{api_key}}&format=JSON'
+    exampleApiUrl: 'https://api.data.gov/gsa/code-gov?api_key={{api_key}}&format=JSON'
   };
 
   /* * * DON'T EDIT BELOW THIS LINE * * */

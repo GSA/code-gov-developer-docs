@@ -13,10 +13,10 @@ module.exports = function(grunt) {
         },
         exec: {
             build: {
-                cmd: 'jekyll build'
+                cmd: 'bundle exec jekyll build'
             },
             serve: {
-                cmd: 'jekyll serve --watch'
+                cmd: 'bundle exec jekyll serve --watch'
             }
         },
         watch: {

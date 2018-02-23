@@ -20,7 +20,7 @@ body, html {
     width: 100%;
     padding: 0;
     margin: 0;
-    font-family: "Avenir Next", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     line-height: 1.375;
     color: #101820; /* CFPB black */
 
@@ -65,20 +65,20 @@ img {
 h1 {
     margin-top: .5em;
     margin-bottom: .5em;
-    font: 400 2.125em/1.23529411764706 "Avenir Next", Arial, sans-serif;
+    font: 400 2.125em/1.23529411764706 "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     font-weight: normal;
 }
 
 h2 {
     margin: 0;
     margin-bottom: 1em;
-    font: 400 1.625em/1.23076923076923 "Avenir Next", Arial, sans-serif;
+    font: 400 1.625em/1.23076923076923 "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     font-weight: normal;
 }
 
 h3 {
     margin: 2em 0 1em 0;
-    font: 400 1.375em/1.27272727272727 "Avenir Next", Arial, sans-serif;
+    font: 400 1.375em/1.27272727272727 "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     font-weight: normal;
 }
 
@@ -137,7 +137,7 @@ small, p.small {
 }
 
 strong, b, dt {
-    font-family: "Avenir Next Demi", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
 dfn {
@@ -215,7 +215,7 @@ table {
 
 th {
     text-align: left;
-    font-family: "Avenir Next Demi", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     background-color: #dbedd4;
 }
 
@@ -278,7 +278,7 @@ dl dd {
 }
 
 dt {
-    font-family: "Avenir Next Demi", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
 /* LINKS */
@@ -314,11 +314,11 @@ a:active {
 }
 
 a.call-to-action {
-    font-family: "Avenir Next", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
 a.action-arrow {
-    font-family: "Avenir Next Demi", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     font-style: normal;
     font-size: 1em;
 }
@@ -516,7 +516,7 @@ ul.repo-list.no-padding {
 }
 
 .header h1 span {
-    font-family: "Avenir Next Demi", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     font-weight: bold;
 }
 
@@ -580,7 +580,7 @@ footer {
     padding: 0;
     border-top: 2px solid #BABBBD;
     background: #F1F2F2;
-    font-family: "Avenir Next", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     width: 100%;
     position: absolute;
     bottom: 0;
@@ -676,7 +676,7 @@ footer a:hover {
     padding-bottom: 1em;
     border-top: 2px solid #BABBBD;
     background: #F1F2F2;
-    font-family: "Avenir Next", Arial, sans-serif;
+    font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     width: 100%;
     position: absolute;
     bottom: 0;
@@ -746,7 +746,7 @@ footer a:hover {
        padding: 2em 0;
        border-top: 2px solid #BABBBD;
        background: #F1F2F2;
-       font-family: "Avenir Next", Arial, sans-serif;
+       font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     }
 
     .main-content {
@@ -1117,7 +1117,7 @@ del {
 
 .expandable {
   margin-bottom: 5px;
-  font-family: "Avenir Next", Arial, sans-serif;
+  font-family: "TT Lakes", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
 .expandable a {
