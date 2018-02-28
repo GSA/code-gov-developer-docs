@@ -17,7 +17,7 @@ The project is in the public domain, and we encourage you to [contribute to it o
   </li>
   <li>
     <a href="https://github.com/GSA/code-gov-developer-docs">
-      <h4>Auctions API</h4>
+      <h4>Code.gov API Developer Documentation</h4>
       <p></p>
     </a>
   </li>
