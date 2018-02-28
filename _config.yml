@@ -3,4 +3,5 @@ markdown: kramdown
 pygments: true
 safe: true
 siteurl: 0.0.0.0
+api_reg_key: asdkfjhasldfhsakdfjhadfjlaskdjf
 exclude: ['.ruby-version', 'node_modules', 'package.json', 'bower.json']
