@@ -16,7 +16,7 @@ The project is in the public domain, and we encourage you to [contribute to it o
     </p>
   </li>
   <li>
-    <a href="https://github.com/GSA/sam_api">
+    <a href="https://github.com/GSA/code-gov-developer-docs">
       <h4>Auctions API</h4>
       <p></p>
     </a>

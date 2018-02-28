@@ -14,8 +14,8 @@ Code.gov API is a public GET API. Data from the API will be delivered in JSON fo
 
 We organized this site into four major areas.
 
-- [API basics](basics) introduces you to the operations offered by the API. 
-- [Route & Field reference](fields) lists and describes the type of information provided by the API.
-- [API Key](key) will be provided by api.data.gov for more personal access of API data. 
+- [API basics]({{ site.url }}/basic) introduces you to the operations offered by the API.
+- [Route & Field reference]({{ site.url }}/fields) lists and describes the type of information provided by the API.
+- [API Key]({{ site.url }}/key) will be provided by api.data.gov for more personal access of API data.
 - [Feedback](https://github.com/GSA/code-gov-api/issues) provides a forum for developers to share feedback and report problems.
 
