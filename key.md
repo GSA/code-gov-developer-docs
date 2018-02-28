@@ -10,7 +10,7 @@ nav: basics
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var apiUmbrellaSignupOptions = {
     registrationSource: 'code-gov',
-    apiKey: '{{site.api_reg_key}}',
+    apiKey: 'ELORrx8BmruIQg0kicvVjT0FonWUl4xGluJwEjiT',
     exampleApiUrl: 'https://api.code.gov/repos?api_key={{api_key}}
   };
 
