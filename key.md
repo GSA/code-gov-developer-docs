@@ -11,6 +11,7 @@ nav: basics
   var apiUmbrellaSignupOptions = {
     registrationSource: 'code-gov',
     apiKey: 'ELORrx8BmruIQg0kicvVjT0FonWUl4xGluJwEjiT',
+    contactUrl: 'https://github.com/GSA/code-gov-api/issues',
     exampleApiUrl: 'https://api.code.gov/repos?api_key={{api_key}}'
   };
 
