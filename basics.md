@@ -6,7 +6,7 @@ nav: basics
 
 ### API basics
 
-The Code.gov API is a GET API. With this API, you will be able to explore the software projects that federal agencies have published in accordance with the [Federal Source Code Policy](https://code.gov/#/policy-guide/docs/overview/introduction).
+The Code.gov API is a GET API. With this API, you will be able to explore the software projects that federal agencies have published in accordance with the [Federal Source Code Policy](https://code.gov/policy-guide/introduction).
 
 There are two basic endpoints:
 
