@@ -14,3 +14,11 @@ If you are going to work on the JavaScript for this site, you need to do the fol
 * Run `bundle install` to install additional dependencies. 
 
 After changing the JavaScript, run `grunt` to rebuild the minified JS.
+
+## Questions?
+
+* Twitter: [@CodeDotGov](https://twitter.com/CodeDotGov)
+* Email: [code@gsa.gov](mailto:code@gsa.gov)
+* LinkedIn: [code-gov](https://www.linkedin.com/company/code-gov/)
+
+Join our #opensource-public Slack channel: https://chat.18f.gov/
