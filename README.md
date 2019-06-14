@@ -6,7 +6,7 @@ Thanks to CFPB team for creating this model and for furthering open source in go
 
 ## Setup instructions
 
-To get started, clone the repo locally. Then run 'bundle exec jekyll serve' and go to http://127.0.0.1:4000/ (or http://localhost:4000/) to run the site on your machine
+To get started, clone the repo locally. Then run `bundle exec jekyll serve` and go to http://127.0.0.1:4000/ (or http://localhost:4000/) to run the site on your machine
 
 ## Using JavaScript and Bower
 
