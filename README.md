@@ -40,8 +40,8 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 If you have questions, please feel free to contact us:  
 [Open an Issue](https://github.com/GSA/code-gov-developer-docs/issues)  
-[@CodeDotGov on Twitter](@CodeDotGov)  
+[@CodeDotGov on Twitter](https://twitter.com/codedotgov)  
 [Send us an email to code at gsa.gov](mailto:code@gsa.gov)  
-[LinkedIn](code-gov)   
+[LinkedIn](https://www.linkedin.com/company/code-gov?trk=company_home_typeahead_result)   
 
 Or join our #opensource-public channel on Slack: https://chat.18f.gov/
