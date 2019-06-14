@@ -20,6 +20,10 @@ If you are going to work on the JavaScript for this site, you need to do the fol
 
 After changing the JavaScript, run `grunt` to rebuild the minified JS.
 
+## Deploying
+
+This site is deployed using [Federalist](https://federalist.18f.gov/). A new version of the site is deployed every time new changes are committed to the master branch.
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
