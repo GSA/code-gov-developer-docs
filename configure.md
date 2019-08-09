@@ -4,29 +4,26 @@ title: Configure
 nav: configure
 ---
 
-# Configuration of code-gov-web
-code-gov-web is configurable.  To set up your own site, you'll have to configure your `CNAME`, `code-gov-config.json`, and `privacy-policy.md`.  More details are below.
+# Configuration of code-gov-front-end
+code-gov-front-end is configurable.  To set up your own site, you'll have to configure your `site.json`, and `privacy-policy.md`.  More details are below.
 
-# Domain
-If you want to host code-gov-web on your own domain, you'll have to change the CNAME file found at [code-gov-web/config/CNAME](https://github.com/GSA/code-gov-web/blob/master/config/CNAME)
-
-# code-gov-config.json
-You can customize the styling, content and much more by adding to and updating the `code-gov-config.json` file found at [code-gov-web/config/code-gov-config.json](https://github.com/GSA/code-gov-web/blob/master/config/code-gov-config.json).  You can also see examples of configurations in [code-gov-web/config/examples](https://github.com/GSA/code-gov-web/tree/master/config/examples).
+# site.json
+You can customize the styling, content and much more by adding to and updating the `site.json` file found at [code-gov-front-end/config/site.json](https://github.com/GSA/code-gov-front-end/blob/master/config/site/site.json).  You can also see examples of configurations in [code-gov-front-end/config/examples](https://github.com/GSA/code-gov-front-end/tree/master/config/site/examples).
 
 ## title
-To change the title of the website change the `title` property in `code-gov-web/config/code-gov-config.json`
+To change the title of the website change the `title` property in `code-gov-front-end/config/site.json`
 
 ## api
-code-gov-web is the front-end and needs to communicate with a backend.  You can specify the base endpoint and api key.  For example, [code.gov](https://code.gov) sets `base` to `https://api.code.gov/` and sets `key` to our public api key.
+code-gov-front-end is the front-end and needs to communicate with a backend.  You can specify the base endpoint and api key.  For example, [code.gov](https://code.gov) sets `base` to `https://api.code.gov/` and sets `key` to our public api key.
 
 ## style
-You can also configure the style sheets that your version of code-gov-web uses.  The `style` property takes a value of the name of the npm package to use for styles.  The easiest way to create your own style is to fork [code-gov-style](https://github.com/GSA/code-gov-style) and npm install it into your version.
+You can also configure the style sheets that your version of code-gov-front-end uses.  The `style` property takes a value of the name of the npm package to use for styles.  The easiest way to create your own style is to fork [code-gov-style](https://github.com/GSA/code-gov-style) and npm install it into your version.
 
 ## twitter handle
 You can add the handle for your twitter account.  This is used to generate the link for the Twitter icon in the top right of each page.
 
 ## content
-The largest part of the [code-gov-config.json](https://github.com/GSA/code-gov-web/blob/master/config/code-gov-config.json) is the `content` section.  In it, you can configure most of the text that appears on your site.
+The largest part of the [site.json](https://github.com/GSA/code-gov-front-end/blob/master/config/site/site.json) is the `content` section.  In it, you can configure most of the text that appears on your site.
 
 ### header
 Under header you can specify the logo used in the top menu bar and the different links that appear in this menu.
@@ -77,13 +74,13 @@ You can also add a disclaimer that says you can't guarantee that features are ro
 ```
 
 # privacy policy
-In order to change the privacy policy that appears on the site, just edit [privacy-policy.md](https://github.com/GSA/code-gov-web/blob/master/src/app/components/privacy-policy/privacy-policy.md).  It's in markdown.  Here's a guide on how to write markdown: https://guides.github.com/features/mastering-markdown/.
+In order to change the privacy policy that appears on the site, just edit [privacy-policy.md](https://github.com/GSA/code-gov-front-end/blob/master/config/site/docs/privacy-policy.md).  It's in markdown.  Here's a guide on how to write markdown: https://guides.github.com/features/mastering-markdown/.
 
 # more soon
-There's many other ways to customize code-gov-web.  More documentation coming soon!
+There's many other ways to customize code-gov-front-end.  More documentation coming soon!
 
 # contact
 If you have any questions, you can post an issue on GitHub or email us at code@gsa.gov
 
 --- 
-Note: cross posted from [https://github.com/GSA/code-gov-web/blob/master/CONFIGURATION.md](https://github.com/GSA/code-gov-web/blob/master/CONFIGURATION.md)
+Note: cross posted from [https://github.com/GSA/code-gov-front-end/blob/master/CONFIGURATION.md](https://github.com/GSA/code-gov-front-end/blob/master/CONFIGURATION.md)
