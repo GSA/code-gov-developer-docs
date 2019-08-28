@@ -1,30 +1,20 @@
 # Welcome!
 
-We're so glad you're thinking about contributing to a U.S. Government open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
+We're so glad you're thinking about contributing to an 18F open source project! If you're unsure or afraid of anything, just ask or submit the issue or pull request anyway. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contribution, and don't want a wall of rules to get in the way of that.
 
-## How to contribute to code-gov-developer-docs
+We aspire to create a welcoming environment for collaboration on this project.
+To that end, we follow the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) and ask that all contributors do the same.
 
-- We want to ensure a welcoming environment for all of our projects. Our staff follows this [Code of Conduct](CODE_OF_CONDUCT.md) and all contributors should do the same.
-- Report bugs and request features via [Github Issues](https://github.com/GSA/code-gov-developer-docs/issues).
-   - If you are not sure that the issue is related to the website you can [create the issue in our general repository](https://github.com/gsa/code-gov/issue/new): [code-gov](https://github.com/gsa/code-gov)
-- [Email us](mailto://code@gsa.gov) your ideas on how to improve the code-gov-developer-docs. We're always open to suggestions.
-- Create a [Github pull request](https://help.github.com/articles/creating-a-pull-request/) with new functionality or fixing a bug.
-- Improve or create documentation for code-gov-developer-docs.
-- Help us improve our unit and integrations tests.
-- Triage tickets and review patches triaging-tickets created by other users.
+Join our team on Slack by [signing up for the #federalist-public channel](https://chat.18f.gov/?channel=federalist-public).
+
+Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our LICENSE, and our README, all of which should be in this repository. If you have any questions, or want to read more about our underlying policies, you can consult the 18F Open Source Policy GitHub repository at https://github.com/18f/open-source-policy, or just shoot us an email/official government letterhead note to [18f@gsa.gov](mailto:18f@gsa.gov).
 
 ## Public domain
 
-As noted in [LICENSE](LICENSE.md), this project is in the worldwide public domain (in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/)).
+This project is in the public domain within the United States, and
+copyright and related rights in the work worldwide are waived through
+the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
-
-# Issue Guidelines
-In the interest of making it easier for our contributors to manage site issues, we request that issues follow certain guidelines.  Our developers mainly use [issues](https://github.com/GSA/code-gov-developer-docs/issues) to identify and prioritize their work.  If you have questions about code.gov or would like start a general discussion, we kindly request that you email us at code@gsa.gov.  Our issue guidelines are a living document and a work in progress, so feel free to offer feedback on it, by emailing us at code@gsa.gov
- - **Specific**: The issue makes specific requests.  An example of a specific request would be `Reduce the Size of Images`.   An example of a non-specific request would be `Improve Site Performance`.
- - **Measurable**: The issue has specific requirements and can be closed when those requirements are met.  This helps us track the progress in addressing problems.  For example, tech debt is always something to work on, so we should create separate issues for this, such as `Consolidate Styling of Repo and Task Cards` and `Convert Validator from Monaco Editor to jsoneditor`, rather than `Address Tech Debt`.
- - **Actionable**: An issue should request a specific action from a member of the code.gov team or community.  An example of something actionable would be `Remove Debugging Text from Loading Screen`.  An example of something that isn't actionable by our team or community is `My city should be forking Code.gov`.
- - **Realistic**: The issue is something that is achievable by the resources of the project, including contributions from the open source community.  An example of a realistic issue is `Include Line Numbers in Validator`.
- - **Time-Aware**: The issue is something that can be resolved within 6 months.  If you think your issue might take longer, we encourage you to break up your issues into smaller issues (like stepping stones) that we can address.  We can still work on big problems, but it is easier for us to track progress and identify what we need to work on, when big problems are broken up into smaller ones.
- 
- 
+All contributions to this project will be released under the CC0
+dedication. By submitting a pull request, you are agreeing to comply
+with this waiver of copyright interest.
