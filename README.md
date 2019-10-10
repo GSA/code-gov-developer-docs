@@ -1,3 +1,8 @@
+# DEPRECATED 
+## This project repo is no longer being maintained. Please visit https://open.gsa.gov/api/codedotgov/ to view API documentation for code.gov.
+
+
+
 # code-gov-developer-docs
 
 This is the repository for developers.code.gov, the official documentation for the [Code.gov](https://code.gov/) API.
